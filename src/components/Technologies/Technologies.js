@@ -22,6 +22,7 @@ const Technologies = () => (
       I've worked with a range of technologies in the web development world. f
     </SectionText>
     <SectionText>Testing branches in sourcetree</SectionText>
+    <SectionText>2nd Test branch in sourcetree</SectionText>
   </Section>
 );
 
