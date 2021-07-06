@@ -21,6 +21,7 @@ const Technologies = () => (
     <SectionText>
       I've worked with a range of technologies in the web development world. f
     </SectionText>
+    <SectionText>Git test</SectionText>
   </Section>
 );
 
