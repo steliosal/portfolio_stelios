@@ -21,12 +21,6 @@ const Technologies = () => (
     <SectionText>
       I've worked with a range of technologies in the web development world. f
     </SectionText>
-<<<<<<< HEAD
-    <SectionText>Git test</SectionText>
-=======
-    <SectionText>Testing branches in sourcetree</SectionText>
-    <SectionText>2nd Test branch in sourcetree</SectionText>
->>>>>>> Test_Branch
   </Section>
 );
 

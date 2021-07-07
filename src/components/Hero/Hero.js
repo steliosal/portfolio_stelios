@@ -8,7 +8,7 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Stelios Alexandrakis <br/>
+        Stelios Alexandrakis from Laptop! <br/>
         Junior Web Developer <br/>
         Portfolio
       </SectionTitle>
